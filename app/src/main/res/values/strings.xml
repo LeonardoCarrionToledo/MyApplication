@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nombr">Nombre: Leonardo </string>
+    <string name="saludo">Apellido: Carrión </string>
+    <string name="telefono">Télefono: 2340-727</string>
+    <string name="pedronco">E-mail: leoyeffy@gmail.com</string>
+</resources>

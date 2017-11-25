@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.lilitoledop.myapplication.MainActivity">
+
+    <TextView
+        android:id="@+id/tsaludos"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="@string/saludo"
+ />
+    <TextView
+        android:id="@+id/tnombre"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="@string/nombr"
+  />
+    <TextView
+        android:id="@+id/ttelofono"
+        android:layout_width="368dp"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="@string/telefono"
+        />
+    <TextView
+        android:id="@+id/temail"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="@string/pedronco"
+        />
+
+
+</android.support.constraint.ConstraintLayout>
